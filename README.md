@@ -1,6 +1,6 @@
 ### Olá, me chamo Caique Carvalho 👋
 
 - 🔭 Hoje trabalho com Full Stack Javascript 
-- 🌱 Estutando Typescript 
+- 🌱 Estudando Typescript 
 - 📫 Contate-me no email: ccaique425@gmail.com
 - 😄 Pronouns: ele/dele
