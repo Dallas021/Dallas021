@@ -6,7 +6,7 @@ Atualmente estou no segundo semestre em Análise e Desenvolvimento de sistemas n
 
  ##
 
- Visualize meu Portifólio no link a seguir: abre.ai/caiquecarvalho
+ Visualize meu Portifólio no link a seguir: <a href="abre.ai/caiquecarvalho"><p><strong>Clique aqui</strong></p></a>
  
  ##
 
