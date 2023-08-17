@@ -4,6 +4,9 @@
 
 Atualmente estou no segundo semestre em Análise e Desenvolvimento de sistemas na insituição Universidade Estácio de Sá.
 
+![Hiago GitHub stats](https://github-readme-stats.vercel.app/api?username=Dallas021&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dallas021&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
  ##
 
 <div style="display: inline_block"><br>
