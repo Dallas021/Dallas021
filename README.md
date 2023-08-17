@@ -6,10 +6,6 @@ Atualmente estou no segundo semestre em Análise e Desenvolvimento de sistemas n
 
  ##
 
- Visualize meu Portifólio no link a seguir: <a style="cursor: pointer" href="http://abre.ai/caiquecarvalho"><p><strong>Clique aqui</strong></p></a>
- 
- ##
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Caique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Caique-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
